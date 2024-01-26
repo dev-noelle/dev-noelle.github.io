@@ -1,6 +1,6 @@
 ----
 layout: single
-title: 을 적습니다.
+title: This is my first ever posting!
 ----
 
 # I made this blog today!
